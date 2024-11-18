@@ -1,0 +1,15 @@
+{
+  "name": "frosttail.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "headroom.js": "^0.12.0",
+    "sass": "^1.81.0"
+  }
+}
